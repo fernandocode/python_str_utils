@@ -1,27 +1,19 @@
-# package_name
+# py_str_utils
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package py_str_utils is used to:
+	- length str
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install py_str_utils
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
+pip install py_str_utils
 ```
 
 ## Author
-My_name
+fernandocode
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -7,14 +7,13 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="py_str_utils",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="fernandocode",
+    author_email="lealfernandoleal@gmail.com",
+    description="Str utils",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
